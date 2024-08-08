@@ -19,7 +19,7 @@ This is a simple Todo application built with React. It allows users to add, edit
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Bhumika05390/todo-app.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd todo-app
