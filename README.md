@@ -21,8 +21,11 @@ This is a simple Todo application built with React. It allows users to add, edit
    ```bash
    git clone https://github.com/yourusername/todo-app.git
 2. **Navigate to the Project Directory**:
+   ```bash
 cd todo-app
-3. **Install Dependencies**:
+4. **Install Dependencies**:
+  ```bash
 npm install
-4. **Run the Application**:
+5. **Run the Application**:
+```bash
 npm start
