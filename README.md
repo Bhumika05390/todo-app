@@ -24,8 +24,8 @@ This is a simple Todo application built with React. It allows users to add, edit
    ```bash
    cd todo-app
 3. **Install Dependencies**:
-  ```bash
-  npm install
+   ```bash
+    npm install
 4. **Run the Application**:
    ```bash
    npm start
