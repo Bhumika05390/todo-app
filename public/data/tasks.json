@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Learn React",
+      "description": "Study React documentation and build a small project.",
+      "completed": false,
+      "timestamp": "2024-08-08T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Exercise",
+      "description": "Go for a run or do a workout.",
+      "completed": false,
+      "timestamp": "2024-08-08T11:00:00Z"
+    },
+    {
+        "id": 5,
+        "title": "Complete Project Report",
+        "description": "Finish and submit the project report for the current sprint.",
+        "completed": false,
+        "timestamp": "2024-08-08T14:00:00Z"
+      },
+      {
+        "id": 7,
+        "title": "Call Family",
+        "description": "Catch up with family members via phone call.",
+        "completed": false,
+        "timestamp": "2024-08-08T19:00:00Z"
+      }
+  ]
+  
